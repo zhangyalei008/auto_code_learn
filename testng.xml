@@ -3,7 +3,7 @@
 <suite name="All Test Suite">
     <test verbose="2" preserve-order="true" name="G:/Project/java_maven_basic">
         <classes>
-            <class name="testcases.LoginTest"></class>
+            <class name="testcases.LoginTest"/>
         </classes>
     </test>
 </suite>
